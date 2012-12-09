@@ -2,7 +2,7 @@ VERSION = 3
 PATCHLEVEL = 6
 SUBLEVEL = 9
 EXTRAVERSION =
-NAME = Terrified Chipmunk
+NAME = Rodnet Terrified Chipmunk
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
